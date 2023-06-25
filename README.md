@@ -1,7 +1,9 @@
 <h1>windows-key</h1> 
 
-Claves y pasos para activar windows
-
+pasos para activar windows
+<br>
+<p>Abrimos un cmd y ejecutamos comandos en el siguiente orden</p>
+<br>
 slmgr.vbs -upk		
 
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
